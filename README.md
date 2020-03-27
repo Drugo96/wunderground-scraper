@@ -1,6 +1,3 @@
-# wunderground-scraper
-It is a simple wunderground history daily scraper. 
-
 # Wunderground Scraper
 ###  wunderground history daily scraper for forecast
 #### Develop by Drugo96
